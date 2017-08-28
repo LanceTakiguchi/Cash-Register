@@ -1,5 +1,5 @@
 # Cash-Register
-* Date: 2017/01/28
+* Date: 2017/08/28
 * Author: Lance Takiguchi
 * Description: A web based Cash-Register styled with Bootstrap and designed in JavaScript using OOP.
 
