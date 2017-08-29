@@ -16,6 +16,12 @@
 .contact div li a {
     font-size: 1.6em;
 }
+.contact div li {
+    display: inline;
+}
+.contact div li p{
+    display: inline-block;
+}
 .contact div ul li{
     margin: 0 .5em 0 .5em;
     padding: 0;
